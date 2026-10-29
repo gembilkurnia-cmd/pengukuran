@@ -1,0 +1,5 @@
+/* ikonik.css - gambar, tangga satuan, jodohkan, urutkan */
+.gulir{overflow-x:auto;background:#fff;border-radius:12px;padding:.5rem}.bar{display:flex;align-items:center;gap:.5rem;margin:.3rem 0}.bar i{display:block;height:26px;background:var(--biru);border-radius:8px;transition:width .4s}
+.tangga{display:flex;flex-direction:column;gap:2px;max-width:340px}.anak{padding:.3rem 1rem;border-radius:10px;font-weight:700;color:#fff;transition:margin .4s,outline .2s}.anak.aktif{outline:4px solid var(--teks);transform:scale(1.05)}
+.pil{background:#fff;color:var(--teks);border:3px solid var(--w);box-shadow:none}.pil.pilih{background:var(--kuning)}.pil.cocok{background:#b7e4c7;pointer-events:none}
+.dua{display:grid;grid-template-columns:1fr 1fr;gap:.6rem}.dua>div{display:flex;flex-direction:column;gap:.6rem}

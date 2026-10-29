@@ -1,0 +1,4 @@
+/* simbolik.css - kalkulator dan bank soal */
+.soal{font-size:1.6rem;font-weight:700;background:#f3e8ff;border-radius:16px;padding:1rem;margin:.6rem 0}
+.hasilK{font-size:1.4rem;font-weight:700;color:var(--ungu)}.pilsimbol button{font-size:1.6rem;width:64px}
+.skor{font-size:2.2rem;text-align:center}
